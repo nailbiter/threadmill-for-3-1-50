@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/threadmill-for-3-1-50/precache-manifest.7c2a234cd438fc9f1156dfdfc9a1f6d7.js"
+  "/threadmill-for-3-1-50/precache-manifest.efeeec6b832b585319cbb7e9af6e4bf5.js"
 );
 
 self.addEventListener('message', (event) => {
